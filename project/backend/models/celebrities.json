@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Henry Cavill",
+    "face_shapes": [
+      "Square",
+      "Rectangle"
+    ],
+    "jaw_score": 98,
+    "symmetry_score": 96,
+    "embedding": []
+  },
+  {
+    "name": "Robert Pattinson",
+    "face_shapes": [
+      "Diamond",
+      "Square"
+    ],
+    "jaw_score": 95,
+    "symmetry_score": 92,
+    "embedding": []
+  },
+  {
+    "name": "Brad Pitt",
+    "face_shapes": [
+      "Square",
+      "Oval"
+    ],
+    "jaw_score": 94,
+    "symmetry_score": 90,
+    "embedding": []
+  },
+  {
+    "name": "Chris Hemsworth",
+    "face_shapes": [
+      "Rectangle",
+      "Square"
+    ],
+    "jaw_score": 92,
+    "symmetry_score": 91,
+    "embedding": []
+  },
+  {
+    "name": "Timothée Chalamet",
+    "face_shapes": [
+      "Diamond",
+      "Oval"
+    ],
+    "jaw_score": 88,
+    "symmetry_score": 94,
+    "embedding": []
+  },
+  {
+    "name": "Tom Cruise",
+    "face_shapes": [
+      "Oval",
+      "Square"
+    ],
+    "jaw_score": 89,
+    "symmetry_score": 88,
+    "embedding": []
+  },
+  {
+    "name": "Ryan Gosling",
+    "face_shapes": [
+      "Oval",
+      "Heart"
+    ],
+    "jaw_score": 87,
+    "symmetry_score": 89,
+    "embedding": []
+  },
+  {
+    "name": "Michael B. Jordan",
+    "face_shapes": [
+      "Square",
+      "Rectangle"
+    ],
+    "jaw_score": 93,
+    "symmetry_score": 90,
+    "embedding": []
+  },
+  {
+    "name": "Idris Elba",
+    "face_shapes": [
+      "Rectangle",
+      "Oblong"
+    ],
+    "jaw_score": 91,
+    "symmetry_score": 87,
+    "embedding": []
+  },
+  {
+    "name": "Zayn Malik",
+    "face_shapes": [
+      "Diamond",
+      "Oval"
+    ],
+    "jaw_score": 86,
+    "symmetry_score": 91,
+    "embedding": []
+  },
+  {
+    "name": "David Beckham",
+    "face_shapes": [
+      "Oval",
+      "Rectangle"
+    ],
+    "jaw_score": 88,
+    "symmetry_score": 86,
+    "embedding": []
+  },
+  {
+    "name": "Chris Evans",
+    "face_shapes": [
+      "Square",
+      "Oval"
+    ],
+    "jaw_score": 90,
+    "symmetry_score": 88,
+    "embedding": []
+  },
+  {
+    "name": "Jason Momoa",
+    "face_shapes": [
+      "Square",
+      "Rectangle"
+    ],
+    "jaw_score": 96,
+    "symmetry_score": 85,
+    "embedding": []
+  },
+  {
+    "name": "Oscar Isaac",
+    "face_shapes": [
+      "Oval",
+      "Round"
+    ],
+    "jaw_score": 82,
+    "symmetry_score": 87,
+    "embedding": []
+  },
+  {
+    "name": "Tom Holland",
+    "face_shapes": [
+      "Round",
+      "Oval"
+    ],
+    "jaw_score": 78,
+    "symmetry_score": 86,
+    "embedding": []
+  },
+  {
+    "name": "Zac Efron",
+    "face_shapes": [
+      "Square",
+      "Diamond"
+    ],
+    "jaw_score": 91,
+    "symmetry_score": 89,
+    "embedding": []
+  },
+  {
+    "name": "Jake Gyllenhaal",
+    "face_shapes": [
+      "Oval",
+      "Oblong"
+    ],
+    "jaw_score": 84,
+    "symmetry_score": 88,
+    "embedding": []
+  },
+  {
+    "name": "Adam Driver",
+    "face_shapes": [
+      "Oblong",
+      "Rectangle"
+    ],
+    "jaw_score": 79,
+    "symmetry_score": 81,
+    "embedding": []
+  },
+  {
+    "name": "Dev Patel",
+    "face_shapes": [
+      "Oval",
+      "Heart"
+    ],
+    "jaw_score": 83,
+    "symmetry_score": 87,
+    "embedding": []
+  },
+  {
+    "name": "John Boyega",
+    "face_shapes": [
+      "Round",
+      "Oval"
+    ],
+    "jaw_score": 80,
+    "symmetry_score": 84,
+    "embedding": []
+  },
+  {
+    "name": "Cillian Murphy",
+    "face_shapes": [
+      "Oblong",
+      "Diamond"
+    ],
+    "jaw_score": 81,
+    "symmetry_score": 89,
+    "embedding": []
+  },
+  {
+    "name": "Pedro Pascal",
+    "face_shapes": [
+      "Oval",
+      "Square"
+    ],
+    "jaw_score": 85,
+    "symmetry_score": 86,
+    "embedding": []
+  },
+  {
+    "name": "Keanu Reeves",
+    "face_shapes": [
+      "Oval",
+      "Rectangle"
+    ],
+    "jaw_score": 87,
+    "symmetry_score": 85,
+    "embedding": []
+  },
+  {
+    "name": "Benedict Cumberbatch",
+    "face_shapes": [
+      "Oblong",
+      "Diamond"
+    ],
+    "jaw_score": 80,
+    "symmetry_score": 83,
+    "embedding": []
+  },
+  {
+    "name": "Paul Rudd",
+    "face_shapes": [
+      "Oval",
+      "Round"
+    ],
+    "jaw_score": 79,
+    "symmetry_score": 87,
+    "embedding": []
+  },
+  {
+    "name": "Mahershala Ali",
+    "face_shapes": [
+      "Oval",
+      "Rectangle"
+    ],
+    "jaw_score": 86,
+    "symmetry_score": 88,
+    "embedding": []
+  },
+  {
+    "name": "Daniel Kaluuya",
+    "face_shapes": [
+      "Round",
+      "Square"
+    ],
+    "jaw_score": 84,
+    "symmetry_score": 86,
+    "embedding": []
+  },
+  {
+    "name": "Rami Malek",
+    "face_shapes": [
+      "Diamond",
+      "Heart"
+    ],
+    "jaw_score": 82,
+    "symmetry_score": 90,
+    "embedding": []
+  },
+  {
+    "name": "Tom Hardy",
+    "face_shapes": [
+      "Square",
+      "Triangle"
+    ],
+    "jaw_score": 92,
+    "symmetry_score": 84,
+    "embedding": []
+  },
+  {
+    "name": "Ryan Reynolds",
+    "face_shapes": [
+      "Oval",
+      "Square"
+    ],
+    "jaw_score": 88,
+    "symmetry_score": 87,
+    "embedding": []
+  },
+  {
+    "name": "Donald Glover",
+    "face_shapes": [
+      "Oval",
+      "Oblong"
+    ],
+    "jaw_score": 81,
+    "symmetry_score": 85,
+    "embedding": []
+  },
+  {
+    "name": "Riz Ahmed",
+    "face_shapes": [
+      "Oval",
+      "Diamond"
+    ],
+    "jaw_score": 83,
+    "symmetry_score": 88,
+    "embedding": []
+  },
+  {
+    "name": "Austin Butler",
+    "face_shapes": [
+      "Oval",
+      "Heart"
+    ],
+    "jaw_score": 85,
+    "symmetry_score": 89,
+    "embedding": []
+  },
+  {
+    "name": "Jonathan Majors",
+    "face_shapes": [
+      "Square",
+      "Rectangle"
+    ],
+    "jaw_score": 90,
+    "symmetry_score": 87,
+    "embedding": []
+  },
+  {
+    "name": "Barry Keoghan",
+    "face_shapes": [
+      "Round",
+      "Diamond"
+    ],
+    "jaw_score": 77,
+    "symmetry_score": 84,
+    "embedding": []
+  }
+]

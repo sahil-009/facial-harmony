@@ -1,0 +1,182 @@
+[
+    {
+        "id": "jaw_01",
+        "text": "Grow a short boxed beard to add definition and width to your jawline.",
+        "category": "jawline",
+        "tier": "free"
+    },
+    {
+        "id": "jaw_02",
+        "text": "Lower body fat percentage to reveal natural jaw structure.",
+        "category": "jawline",
+        "tier": "free"
+    },
+    {
+        "id": "jaw_03",
+        "text": "Your strong jawline is a key asset—keep it clean-shaven or with light stubble to show it off.",
+        "category": "jawline",
+        "tier": "free"
+    },
+    {
+        "id": "jaw_04",
+        "text": "Mewing exercises (proper tongue posture) can help enhance jawline definition over time.",
+        "category": "jawline",
+        "tier": "premium"
+    },
+    {
+        "id": "jaw_05",
+        "text": "Consider jaw-focused exercises like chin tucks and neck curls to strengthen the area.",
+        "category": "jawline",
+        "tier": "premium"
+    },
+    {
+        "id": "shape_round_01",
+        "text": "Opt for hairstyles with volume on top (e.g., Pompadour) to elongate your face.",
+        "category": "shape_round",
+        "tier": "free"
+    },
+    {
+        "id": "shape_round_02",
+        "text": "Square or rectangular glasses frames will add necessary angles.",
+        "category": "shape_round",
+        "tier": "free"
+    },
+    {
+        "id": "shape_oblong_01",
+        "text": "Avoid high-volume hair on top; choose styles with fullness on the sides.",
+        "category": "shape_oblong",
+        "tier": "free"
+    },
+    {
+        "id": "shape_oblong_02",
+        "text": "Glasses with more depth (height) help balance facial length.",
+        "category": "shape_oblong",
+        "tier": "free"
+    },
+    {
+        "id": "shape_square_01",
+        "text": "Soft, layered hairstyles can balance your strong angular features.",
+        "category": "shape_square",
+        "tier": "free"
+    },
+    {
+        "id": "shape_square_02",
+        "text": "Round or oval glasses frames contrast well with your face shape.",
+        "category": "shape_square",
+        "tier": "free"
+    },
+    {
+        "id": "shape_rectangle_01",
+        "text": "Avoid very short sides; keep some length on the sides to soften the face shape.",
+        "category": "shape_rectangle",
+        "tier": "free"
+    },
+    {
+        "id": "shape_diamond_01",
+        "text": "Avoid very short sides to balance wide cheekbones.",
+        "category": "shape_diamond",
+        "tier": "free"
+    },
+    {
+        "id": "shape_diamond_02",
+        "text": "Fringes or textured crops can help soften a narrow forehead.",
+        "category": "shape_diamond",
+        "tier": "premium"
+    },
+    {
+        "id": "shape_oval_01",
+        "text": "Most hairstyles and glasses suit you—experiment with bold styles!",
+        "category": "shape_oval",
+        "tier": "free"
+    },
+    {
+        "id": "shape_heart_01",
+        "text": "Longer hairstyles or beards can help fill out the lower face.",
+        "category": "shape_heart",
+        "tier": "free"
+    },
+    {
+        "id": "shape_triangle_01",
+        "text": "Hairstyles with volume on top and sides help balance a wider jaw.",
+        "category": "shape_triangle",
+        "tier": "free"
+    },
+    {
+        "id": "eyes_01",
+        "text": "Select glasses with a bridge width that complements your eye spacing.",
+        "category": "eyes",
+        "tier": "free"
+    },
+    {
+        "id": "eyes_02",
+        "text": "Focus on quality sleep to reduce puffiness that exaggerates eye asymmetry.",
+        "category": "eyes",
+        "tier": "free"
+    },
+    {
+        "id": "nose_01",
+        "text": "Contouring or specific camera angles can help balance nose proportions.",
+        "category": "nose",
+        "tier": "free"
+    },
+    {
+        "id": "nose_02",
+        "text": "Strategic facial hair placement can draw attention away from nose proportions.",
+        "category": "nose",
+        "tier": "premium"
+    },
+    {
+        "id": "symmetry_brow_01",
+        "text": "Professional grooming/threading can easily correct eyebrow asymmetry.",
+        "category": "symmetry",
+        "tier": "free"
+    },
+    {
+        "id": "symmetry_lips_01",
+        "text": "Lip balm and hydration can improve lip symmetry appearance.",
+        "category": "symmetry",
+        "tier": "premium"
+    },
+    {
+        "id": "general_01",
+        "text": "Maintain good posture to enhance your natural presence.",
+        "category": "general",
+        "tier": "free"
+    },
+    {
+        "id": "general_02",
+        "text": "A consistent skincare routine is the best way to improve overall facial aesthetics.",
+        "category": "general",
+        "tier": "free"
+    },
+    {
+        "id": "general_03",
+        "text": "Stay hydrated—water intake directly affects skin quality and facial fullness.",
+        "category": "general",
+        "tier": "premium"
+    },
+    {
+        "id": "general_04",
+        "text": "Regular cardiovascular exercise improves facial blood flow and skin tone.",
+        "category": "general",
+        "tier": "premium"
+    },
+    {
+        "id": "lips_01",
+        "text": "Keep lips moisturized to enhance their natural definition.",
+        "category": "lips",
+        "tier": "free"
+    },
+    {
+        "id": "skin_01",
+        "text": "Use sunscreen daily to prevent premature aging and maintain skin quality.",
+        "category": "general",
+        "tier": "premium"
+    },
+    {
+        "id": "hair_01",
+        "text": "Regular haircuts every 3-4 weeks maintain your optimal face-framing style.",
+        "category": "general",
+        "tier": "premium"
+    }
+]
